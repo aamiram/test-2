@@ -6,7 +6,7 @@ void main()
  clrscr();
  printf("enter the vlue of a b &c");
  scanf("%d%d%d\n",&a,&b,&c);
-
+// test commit
  if(a>b)
   {
    if(a>c)
